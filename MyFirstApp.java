@@ -7,7 +7,7 @@ public class MyFirstApp {
 	//System.out.println() is used to write on console
 		
 	System.out.println("welcome");
-	
+	System.out.println("This changes done in local repository");
 		
 	}
 
